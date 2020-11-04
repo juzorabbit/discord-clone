@@ -66,3 +66,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+This is a discord clone.
+The technologies covered in this project includes
+1. REact
+2. Redux
+3. Hooks
+4. Selectors
+5. Firebase
+
+
